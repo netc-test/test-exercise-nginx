@@ -33,7 +33,7 @@ There is only one parameter to customize the module (I'd like to add a lot more)
 ### If you do want to implement the forward proxy
 This is by default. Just set the parameter $setforwardproxy = 'true' in the config class.
 ### If you do NOT want the forward proxy in place
-Just set the parameter $setforwardproxy = 'false' in the config class.
+Just set the parameter $setforwardproxy = 'false' in the config class and the forward proxy configuration will be wiped from the server.
 
 ## Classes
  - Install.pp: installs the necessary packages
