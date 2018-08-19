@@ -42,7 +42,7 @@ Just set the parameter $setforwardproxy = 'false' in the config class and the fo
 
 ## Comments
 > I would like to implement a lot more parameters in the config.pp module.
-> For exemple, to set custom redirects or to choose the particular port where  > the proxy listens to. In > my testing environment, the module 
+> For exemple, to set custom redirects or to choose the particular port where the proxy listens to. In my testing environment, the module 
 > works just as expected :-)
 
 
