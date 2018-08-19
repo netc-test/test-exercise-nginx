@@ -1,9 +1,6 @@
 # test-exercise-nginx
-
-
 [![N|Solid](https://cdn-1.wp.nginx.com/wp-content/themes/nginx-theme/assets/img/logo.svg)](https://www.nginx.com)
 [![N|Solid](https://puppet.com/themes/hoverboard/images/puppet-logo/puppet-logo-amber-white-lg.png)](https://www.nginx.com)
-
 #### Table of Contents
 1. [Description](#description)
 2. [Setup requirements](#requirements)
