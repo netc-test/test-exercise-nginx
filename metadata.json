@@ -1,4 +1,4 @@
-{
+0;136;0c{
   "name": "nctest-nginx",
   "version": "0.0.1",
   "author": "OB",
@@ -27,7 +27,7 @@
   "requirements": [
     {
       "name": "puppet",
-      "version_requirement": ">= 4.5.0 < 5.0.0"
+      "version_requirement": ">= 4.5.0"
     }
   ],
   "description": "Installs, generates a self-signed certificate and configures NGINX to use SSL, create a couple of redirects according to the test exercise, and also create & remove a forward proxy and format log files as per requested. Tested only on CentOS 7."
